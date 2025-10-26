@@ -1,9 +1,10 @@
 import React from 'react'
+import WeatherCard from '../components/WeatherCard'
 
 function Home() {
   return (
-    <div>
-      <p>hello</p>
+    <div className='bg-amber-200 min-h-screen p-20'>
+      <WeatherCard/>
     </div>
   )
 }
