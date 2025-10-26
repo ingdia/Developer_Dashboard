@@ -4,7 +4,7 @@ import GitHubCard from '../components/GitHubCard'
 
 function Home() {
   return (
-    <div className='bg-amber-200 min-h-screen p-20'>
+    <div className='bg-amber-200 p-20 flex flex-col md:flex-row justify-evenly'>
       <WeatherCard/>
       <GitHubCard/>
     </div>
