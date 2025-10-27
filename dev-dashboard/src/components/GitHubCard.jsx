@@ -2,6 +2,7 @@ import React from 'react'
 import image from "../assets/image.png"
 
 function GitHubCard() {
+   const {mydata, err, isloading} = useFetch("https://api.github.com/users/ingdia")
   return (
     <section className='bg-white py-10 p-10 rounded-2xl md:w-[400px]'>
     <h1 className='text-2xl font-bold'>Github</h1>

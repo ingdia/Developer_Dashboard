@@ -1,7 +1,10 @@
 import React from 'react'
 import {CloudSun} from "lucide-react"
+import useFetch from '../hooks/useFetch'
 
 function WeatherCard() {
+  
+
   return (
     <div className='bg-white py-10 px-[50px] rounded-2xl'>
       <h1 className='text-3xl p-3 font-bold'>Current Weather</h1>
