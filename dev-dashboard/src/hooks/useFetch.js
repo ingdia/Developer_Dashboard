@@ -26,5 +26,25 @@ export default function useFetch(url) {
       });
   }, [url]);
 
+
+//   try{
+
+//     useEffect(()=>{
+//     const response = fetch(url);
+//     if(!response){
+//       throw Error("fetching failing")
+//     }
+//     const data= response.json;
+//         setData(data);
+//         setIsLoading(false)
+//     },[url])
+//   }
+
+//   catch(error){
+//      setErr(error.message);
+//      setIsLoading(false)
+//   }
   return { mydata, err, isloading };
 }
+
+
