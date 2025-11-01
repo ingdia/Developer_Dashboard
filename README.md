@@ -246,7 +246,7 @@ Edit `src/components/WeatherCard.jsx` and update the latitude/longitude:
 useFetch(`https://api.open-meteo.com/v1/forecast?latitude=LAT&longitude=LONG&current_weather=true`)
 ```
 
-## 📝 Key Features Explained
+##  Key Features Explained
 
 ### State Management
 - Uses React's `useState` and `useEffect` hooks
@@ -284,5 +284,5 @@ useFetch(`https://api.open-meteo.com/v1/forecast?latitude=LAT&longitude=LONG&cur
 - Clear browser cache and try again
 
 
-**Note**: This project was created as part of React Week 2 Assignment focusing on API integration, state management, and theme switching.
+**Note**: This project was created as part of React Assignment focusing on API integration, state management, and theme switching.
 
