@@ -1,4 +1,4 @@
-# Developer Dashboard(Diane's Dashboard)
+<img width="1366" height="737" alt="screencapture-developer-dashboard-wheat-vercel-app-2025-11-02-22_10_29" src="https://github.com/user-attachments/assets/2ff0f0fe-e1c8-4c54-86e4-b8328c863d8a" /><img width="1366" height="737" alt="screencapture-developer-dashboard-wheat-vercel-app-2025-11-02-22_10_15" src="https://github.com/user-attachments/assets/6304ed2b-43f0-4ad7-8f89-20169247137d" /># Developer Dashboard(Diane's Dashboard)
 
 A modern, responsive React dashboard that displays real-time GitHub profile statistics and current weather information. This project demonstrates API integration, state management, and theme switching capabilities.
 
@@ -55,9 +55,13 @@ The dashboard includes a fully functional Light/Dark mode theme switcher with pe
 ##  Screenshots
 
 > **Note**: screenshots of my dashboard (coming soon)
-> 
 > - Light mode screenshot
+><img width="1366" height="737" alt="screencapture-developer-dashboard-wheat-vercel-app-2025-11-02-22_10_15" src="https://github.com/user-attachments/assets/5a80b87a-2325-4b76-9495-b72b7e3d5f1f" />
+
 > - Dark mode screenshot
+> - <img width="1366" height="737" alt="screencapture-developer-dashboard-wheat-vercel-app-2025-11-02-22_10_29" src="https://github.com/user-attachments/assets/634ddc8a-984e-4d82-8ed7-a9024f8b70f9" />
+
+
 > - Mobile view screenshot
 
 ##  Deployment
