@@ -177,7 +177,7 @@ Developer_Dashboard/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Developer_Dashboard.git
+   git clone https://github.com/ingdia/Developer_Dashboard.git
    cd Developer_Dashboard/dev-dashboard
    ```
 
